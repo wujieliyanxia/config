@@ -23,5 +23,6 @@ spring:
       server:
         git:
           uri: https://github.com/wujieliyanxia/config-repo
+          searchPaths: ConfigData
           username: wujieliyanxia
           password: liyanxia0806

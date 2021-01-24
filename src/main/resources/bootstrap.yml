@@ -1,0 +1,9 @@
+spring:
+  profiles: dev
+eureka:
+  client:
+    registry-fetch-interval-seconds: 15
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+  instance:
+    prefer-ip-address: true
