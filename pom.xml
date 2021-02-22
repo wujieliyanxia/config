@@ -56,7 +56,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <start-class>demo.ConfigServerApplication</start-class>
+        <start-class>com.buer.config.ConfigurationServiceApplication</start-class>
         <java.version>1.7</java.version>
         <docker.image.prefix>springcloud</docker.image.prefix>
     </properties>
