@@ -26,3 +26,4 @@ spring:
           searchPaths: ConfigData
           username: wujieliyanxia
           password: liyanxia0806
+          force-pull: true
